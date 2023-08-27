@@ -16,7 +16,7 @@ library(ggplot2)
 library(tidyverse)
 library(dplyr)
 
-Data Preparation
+## Data Preparation
 The project starts by loading the real estate data from "realtor-data.csv" and performing data cleaning tasks, including handling missing values and removing duplicates.
 
 Part 1: Exploratory Data Analysis
