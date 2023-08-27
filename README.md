@@ -11,10 +11,11 @@ install.packages("tidyverse")
 install.packages("mice")
 
 ## Additionally, ensure you have loaded the necessary libraries:
-```
+
 library(ggplot2)
 library(tidyverse)
 library(dplyr)
+```
 
 ### Data Preparation
 
